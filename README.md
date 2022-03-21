@@ -3,7 +3,7 @@ A calculator created using PHP.
 
 ## Table of contents
 * [General info](#general-info)
-* [Technologies](#technologies)
+* [Languages](#languages)
 * [Setup](#setup)
 
 ## General info
@@ -13,7 +13,7 @@ This is a basic calculator built using PHP. Concepts used :
 * Inputs retain value after submitting
 * Populated the select with options for basic math
 
-## Technologies 
+## Languages
 * HTML5
 * CSS3
 * PHP
