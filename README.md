@@ -1,4 +1,4 @@
-# Introduction
+# PHP Calculator
 A calculator created using PHP.
 
 ## Table of contents
